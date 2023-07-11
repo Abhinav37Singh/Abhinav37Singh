@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Abhinav37Singh
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abhinav Singh, Engineer in Computer Science with specialization in Data Science and Artificial Intelligence.
+- 👀 I’m interested in App Development, Web Development, Data Analytics
+- 🌱 I’m currently learning Data Science 
+- 📫 Reach me through mail: abhinavsingh.2037@gmail.com
 
 <!---
 Abhinav37Singh/Abhinav37Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
